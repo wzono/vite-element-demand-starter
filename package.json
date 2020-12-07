@@ -1,0 +1,22 @@
+{
+  "name": "vite-element-demand-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "element-plus": "^1.0.1-beta.4",
+    "vue": "^3.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/runtime": "^7.12.5",
+    "@rollup/plugin-babel": "^5.2.2",
+    "@vue/compiler-sfc": "^3.0.2",
+    "babel": "^6.23.0",
+    "babel-plugin-component": "^1.1.1",
+    "vite": "^1.0.0-rc.8",
+    "vite-babel-plugin": "^0.0.1"
+  }
+}
