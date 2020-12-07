@@ -23,6 +23,10 @@ yarn dev
 yarn build
 ```
 
+## Plugins
+
+use babel: [vite-babel-plugin](https://github.com/wingsico/vite-babel-plugin)
+
 ## License 
 
 [MIT](https://opensource.org/licenses/MIT)
